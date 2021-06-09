@@ -1,0 +1,17 @@
+{
+  "name": "laura-video",
+  "version": "0.0.1",
+  "description": "",
+  "main": "laura.js",
+  "scripts": {
+    "test": "node laura.js"
+  },
+  "author": "laura",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3"
+  }
+}
